@@ -83,4 +83,4 @@ I’m a cloud architect and technology strategist specializing in automating, sc
 
 | **Social**                                     | **Links**                                                                                                                                                |
 | ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [BlueSky](https://bsky.lorezyra.com) | [RichieBartlett.com](https://RichieBartlett.com) <br> [blog.RichieBartlett.com](https://dev.blog.RichieBartlett.com) <br> [Zyra.Tech](https://Zyra.Tech) |
+| [BlueSky](https://bsky.lorezyra.com) <br> [LinkedIn](https://www.linkedin.com/in/richbartlett/) <br> [FaceBook](https://www.facebook.com/LoreZyra/)| [RichieBartlett.com](https://RichieBartlett.com) <br> [blog.RichieBartlett.com](https://dev.blog.RichieBartlett.com) <br> [Zyra.Tech](https://Zyra.Tech) |
