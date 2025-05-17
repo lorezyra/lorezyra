@@ -1,6 +1,7 @@
+<!--
+
 ## Hi there 👋
 
-<!--
 **lorezyra/lorezyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,40 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 👋 About Me
+
+I’m a cloud architect and technology strategist specializing in automating, scaling, and building professional digital platforms. My work centers around delivering robust, highly-optimized infrastructure for content-driven and entrepreneurial projects.
+
+### 🚀 Current Focus
+
+* **RichieBartlett.com**
+  Building a modern, serverless blogging and knowledge platform tailored for STEM, entrepreneurship, blockchain, and technology enthusiasts.
+
+  * Custom [HEXO](https://hexo.io/) theme and workflow, with advanced markdown authoring rules and modular content automation
+  * Automated newsletter, analytics, and social distribution integrations
+  * Privacy, accessibility, and performance as core pillars (GDPR-compliant, noscript-friendly, <1500ms load targets)
+  * AWS-based architecture: S3, CloudFront, Lambda, DynamoDB, SES, and Route53
+  * Tooling for YouTube and WordPress migration, AI-assisted markdown conversion, and custom tag ecosystem
+
+* **Zyra.Tech**
+  Founder and lead architect of a cloud consultancy and solutions studio focused on:
+
+  * Multi-brand AWS Organizations setup and governance
+  * Secure, repeatable brand launches and full lifecycle automation
+  * Development of internal tooling for SSO, domain cutover, and resource provisioning
+  * Emphasis on efficiency, modularity, and compliance for solopreneurs and small teams
+
+### 🛠️ Core Competencies
+
+* **Cloud Infrastructure**: AWS (Org/S3/CloudFront/IAM/Route53/ACM/Lambda/Code*)
+* **Static Site Generators**: HEXO, custom themes/plugins, content migration
+* **Automation**: Bash scripting, CI/CD, Infrastructure as Code (IaC)
+* **Content Engineering**: Structured markdown, scalable tagging, multi-source migration
+* **Performance & Compliance**: Accessibility, GDPR, security best practices
+
+### 🌐 Links
+
+* Portfolio: [RichieBartlett.com](https://RichieBartlett.com)
+* Blog Framework: [blog.RichieBartlett.com](https://blog.RichieBartlett.com)
+* Cloud Studio: [Zyra.Tech](https://Zyra.Tech)
