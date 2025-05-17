@@ -47,8 +47,8 @@ I’m a cloud architect and technology strategist specializing in automating, sc
 * **Content Engineering**: Structured markdown, scalable tagging, multi-source migration
 * **Performance & Compliance**: Accessibility, GDPR, security best practices
 
-### 🌐 Links
+### 🌐 Web
 
-* Portfolio: [RichieBartlett.com](https://RichieBartlett.com)
-* Blog Framework: [blog.RichieBartlett.com](https://blog.RichieBartlett.com)
-* Cloud Studio: [Zyra.Tech](https://Zyra.Tech)
+| **Social**                                     | **Links**                                                                                                                                                |
+| ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [BlueSky](https://bsky.lorezyra.com) | [RichieBartlett.com](https://RichieBartlett.com) <br> [blog.RichieBartlett.com](https://dev.blog.RichieBartlett.com) <br> [Zyra.Tech](https://Zyra.Tech) |
