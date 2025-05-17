@@ -16,6 +16,38 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+```javascript
+// Richie Bartlett | Cloud Architect | Automation Enthusiast
+// Focused on professionalizing digital infrastructure, content platforms, and brand automation.
+
+import { Architect, Consultant } from 'zyra.tech';
+import { BlogPlatform } from 'richiebartlett.com';
+
+const profile = {
+  name: 'Richie Bartlett',
+  location: 'Tokyo, Japan',
+  specialties: [
+    'AWS Cloud Architecture',
+    'Infrastructure Automation',
+    'HEXO & Static Site Generators',
+    'Markdown Engineering',
+    'Content Migration Tooling'
+  ],
+  organizations: [
+    'Zyra.Tech',
+    'RichieBartlett.com'
+  ],
+  currentProjects: [
+    new BlogPlatform('blog.RichieBartlett.com'),
+    new Architect('Zyra.Tech')
+  ],
+  tagline: 'Designing scalable, automated, and privacy-first web platforms.'
+};
+
+export default profile;
+
+```
+
 ## 👋 About Me
 
 I’m a cloud architect and technology strategist specializing in automating, scaling, and building professional digital platforms. My work centers around delivering robust, highly-optimized infrastructure for content-driven and entrepreneurial projects.
