@@ -88,5 +88,5 @@ I’m a cloud architect and technology strategist specializing in automating, sc
 ---
 
 ![Cloud Enthusiast](https://github.com/lorezyra/lorezyra/blob/master/badges/cloud.svg)
-![AWS Hero](https://github.com/lorezyra/lorezyra/blob/master/badges/aws.svg)
-![MSFT RD](https://github.com/lorezyra/lorezyra/blob/master/badges/azure.svg)
+![AWS Hero](https://github.com/lorezyra/lorezyra/blob/Production/badges/aws.svg)
+![MSFT RD](https://github.com/lorezyra/lorezyra/blob/Production/badges/azure.svg)
