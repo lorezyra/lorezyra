@@ -37,7 +37,7 @@ const profile = {
   organizations: [
     'Zyra.Tech',
     'RichieBartlett.com',
-    'LiLo.LGBT`,
+    'LiLo.LGBT',
     'Linspira.com' //decommissioned
   ],
   currentProjects: [
