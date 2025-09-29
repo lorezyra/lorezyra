@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ```javascript
-// Richie Bartlett | Cloud Architect | Automation Enthusiast
+// 山森理路　(Richie Bartlett) | Cloud Architect | Automation Enthusiast
 // Focused on professionalizing digital infrastructure, content platforms, and brand automation.
 
 import { Architect, Consultant } from 'zyra.tech';
