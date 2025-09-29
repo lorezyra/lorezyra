@@ -24,7 +24,8 @@ import { Architect, Consultant } from 'zyra.tech';
 import { BlogPlatform } from 'richiebartlett.com';
 
 const profile = {
-  name: 'Richie Bartlett',
+  /* name: 'Richie Bartlett', */
+  name: 'LiLo YamaMori',
   location: 'Tokyo, Japan',
   specialties: [
     'AWS Cloud Architecture',
