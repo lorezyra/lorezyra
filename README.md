@@ -36,7 +36,9 @@ const profile = {
   ],
   organizations: [
     'Zyra.Tech',
-    'RichieBartlett.com'
+    'RichieBartlett.com',
+    'LiLo.LGBT`,
+    'Linspira.com' //decommissioned
   ],
   currentProjects: [
     new BlogPlatform('blog.RichieBartlett.com'),
