@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ```javascript
-// 山森理路　(Richie Bartlett) | Cloud Architect | Automation Enthusiast
+// 山森理路　(Lilo YAMAMORI) | Cloud Architect | Automation Enthusiast
 // Focused on professionalizing digital infrastructure, content platforms, and brand automation.
 
 import { Architect, Consultant } from 'zyra.tech';
@@ -57,6 +57,14 @@ I’m a cloud architect and technology strategist specializing in automating, sc
 
 ### 🚀 Current Focus
 
+* **Zyra.Tech**
+  Founder and lead architect of a cloud consultancy and solutions studio focused on:
+
+  * Multi-brand AWS Organizations setup and governance
+  * Secure, repeatable brand launches and full lifecycle automation
+  * Development of internal tooling for SSO, domain cutover, and resource provisioning
+  * Emphasis on efficiency, modularity, and compliance for solopreneurs and small teams
+
 * **RichieBartlett.com**
   Building a modern, serverless blogging and knowledge platform tailored for STEM, entrepreneurship, blockchain, and technology enthusiasts.
 
@@ -65,14 +73,6 @@ I’m a cloud architect and technology strategist specializing in automating, sc
   * Privacy, accessibility, and performance as core pillars (GDPR-compliant, noscript-friendly, <1500ms load targets)
   * AWS-based architecture: S3, CloudFront, Lambda, DynamoDB, SES, and Route53
   * Tooling for YouTube and WordPress migration, AI-assisted markdown conversion, and custom tag ecosystem
-
-* **Zyra.Tech**
-  Founder and lead architect of a cloud consultancy and solutions studio focused on:
-
-  * Multi-brand AWS Organizations setup and governance
-  * Secure, repeatable brand launches and full lifecycle automation
-  * Development of internal tooling for SSO, domain cutover, and resource provisioning
-  * Emphasis on efficiency, modularity, and compliance for solopreneurs and small teams
 
 ### 🛠️ Core Competencies
 
