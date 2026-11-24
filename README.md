@@ -34,13 +34,12 @@ const profile = {
     'Content Migration Tooling'
   ],
   organizations: [
-    'Zyra.Tech',
     'LiLo.LGBT',
-    'RichieBartlett.com',
+    'Zyra.Tech',　
     'Linspira.com' //decommissioned
   ],
   currentProjects: [
-    new BlogPlatform('blog.RichieBartlett.com'),
+    new BlogPlatform('blog.LiLo.LGBT'),
     new Architect('Zyra.Tech')
   ],
   tagline: 'Designing scalable, automated, and privacy-first web platforms.'
@@ -64,9 +63,6 @@ I’m a cloud architect and technology strategist specializing in automating, sc
   * Development of internal tooling for SSO, domain cutover, and resource provisioning
   * Emphasis on efficiency, modularity, and compliance for solopreneurs and small teams
 
-* **RichieBartlett.com**
-  Building a modern, serverless blogging and knowledge platform tailored for STEM, entrepreneurship, blockchain, and technology enthusiasts.
-
   * Custom [HEXO](https://hexo.io/) theme and workflow, with advanced markdown authoring rules and modular content automation
   * Automated newsletter, analytics, and social distribution integrations
   * Privacy, accessibility, and performance as core pillars (GDPR-compliant, noscript-friendly, <1500ms load targets)
@@ -80,12 +76,6 @@ I’m a cloud architect and technology strategist specializing in automating, sc
 * **Automation**: Bash scripting, CI/CD, Infrastructure as Code (IaC)
 * **Content Engineering**: Structured markdown, scalable tagging, multi-source migration
 * **Performance & Compliance**: Accessibility, GDPR, security best practices
-
-### 🌐 Web
-
-| **Social**                                     | **Links**                                                                                                                                                |
-| ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [BlueSky](https://bsky.lorezyra.com) <br> [LinkedIn](https://www.linkedin.com/in/lilo-yamamori/) <br> [FaceBook](https://www.facebook.com/LoreZyra/)| [RichieBartlett.com](https://RichieBartlett.com) <br> [blog.RichieBartlett.com](https://dev.blog.RichieBartlett.com) <br> [Zyra.Tech](https://Zyra.Tech) |
 
 ---
 
